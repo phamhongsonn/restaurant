@@ -130,3 +130,72 @@ footer{
     margin-top: 40px;
     background-color: black;
 }
+.title{
+    font-family: Helve;
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    color: #f54334;
+    font-size: 25px;
+}
+.menuItem{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: Helve;
+}
+.menuItem .menuContent .menuTitle{
+    font-size: 30px;
+}
+.news-blog .news-content{
+    font-family: Helve;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.news-blog .news-content .news-title a{
+    text-transform: uppercase;
+    font-size: 16px;
+    color:#f54334;
+    font-weight: bold;
+    font-family: Helve;
+}
+.news-blog .news-content .news-time i{
+    color :#a1c851;
+}
+.news-blog .news-content .news-time{
+    padding-top:10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #494646
+}
+.news-blog .news-content .news-des{
+    padding-top:10px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #494646
+}
+.news-blog{
+    padding-bottom: 30px;
+}
+.fanpage{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: Helve;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+.pagination .page-item a{
+    color: #f54334;
+    font-weight: bold;
+    border-radius: 6px;
+}
+.pagination .page-item{
+    padding-right: 3%;
+}
+.pagination .page-item.active .page-link{
+    color: white;
+    background-color: lightgray;
+    border-color: lightgray
+}
+
